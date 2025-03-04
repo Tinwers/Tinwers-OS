@@ -2,7 +2,6 @@
 大家好，我是SUNNY BLACK
 这是用c++做出来的仿OS软件
 hello,this software is imitate OS.And the software can only be compiled in the CPP compiler.
-而且我也是新手，请大家多多关照。
 
 
 WINDOWS用法
@@ -15,3 +14,4 @@ Tinwers OS.exe是每次打开的程序
 ANDROID安卓用法
 
 下载apk文件，安装即可使用。
+（截至2025.3.5，apk版本已经4.0了。暂时还没上传，最近有事，请再等等！）
